@@ -1,2 +1,3 @@
-# hello-world
-this document is used to identify all sections to be included in the final project.
+# Aramazd
+Aramazd was regarded as a generous god of fertility, rain, and abundance.
+Aramazd will provide again.
